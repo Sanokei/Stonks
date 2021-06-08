@@ -20,5 +20,5 @@ List of commands that work with the bot
 ## Autist Error
 ![LMAOAutist](https://user-images.githubusercontent.com/36809574/121267408-24994a80-c88a-11eb-8bd8-d55922b407ca.JPG)
 
-# Error if you forgot to enter a name you autist
+## Error if you forgot to enter a name you autist
 ![LMAOError](https://user-images.githubusercontent.com/36809574/121267412-2531e100-c88a-11eb-8a3a-96d1bad2e183.JPG)
